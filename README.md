@@ -17,5 +17,5 @@
   Instructions
 </h1>
 <p>
-  
+  Click on the Final Project.pptm and then click View Raw to download the Power Point.
 </p>
